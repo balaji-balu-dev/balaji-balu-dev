@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji-balu-dev&label=Profile%20views&color=0e75b6&style=flat" alt="balaji-balu-dev" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-programmer-computer-programming-clip-art-computer-2526302%2F&psig=AOvVaw2T-NWOlB5fEFGBPXwSibwA&ust=1664468629271000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjuoYjzt_oCFQAAAAAdAAAAABAD" alt="balaji-balu-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji-balu-dev" alt="balaji-balu-dev" /></a> </p>
 
