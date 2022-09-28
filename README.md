@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <img src="https://banner2.cleanpng.com/20180525/scc/kisspng-programmer-computer-programming-clip-art-computer-training-5b0881133856f2.6726475215272839872308.jpg" alt="balaji-balu-dev" /> </p>
+<p align="left"> <img src="https://banner2.cleanpng.com/20180525/scc/kisspng-programmer-computer-programming-clip-art-computer-training-5b0881133856f2.6726475215272839872308.jpg" alt="balaji-balu-dev](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaji-balu-dev" alt="balaji-balu-dev" /></a> </p>
 
