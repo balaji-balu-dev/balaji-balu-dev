@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Science and Android application development**
 
-- 📫 How to reach me **Balajibalu@gmail.com**
+- 📫 How to reach me **Balajibalu5210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
