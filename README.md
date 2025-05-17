@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Early detection of chronic kidney detection using machine learning**
+- 🔭 I’m currently working for **Wipro as an Associate Analyst**
 
-- 🌱 I’m currently learning **DataScience, Machinealearning, DeepLearning, NeuralNetworks**
+- 🌱 I’m currently learning **ETl Testing,PowerBi**
 
-- 💬 Ask me about **Data Science and Android application development**
+- 💬 Ask me about **Data Science and ETL Testing**
 
 - 📫 How to reach me **Balajibalu5210@gmail.com**
 
